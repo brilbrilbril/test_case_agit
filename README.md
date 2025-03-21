@@ -46,3 +46,19 @@ I use OpenAI API for the LLM, so make sure you have the API key (paid) to run an
 12. Wait until the localhost address appears, then you will be switched automatically in a web browser or you can copy this link and paste it manually in browser.
 
     ``` http://localhost:8501/ ```
+
+
+**Example input and output**
+![image](https://github.com/user-attachments/assets/8651f6c5-3484-4e6d-966c-e58df834d036)
+![image](https://github.com/user-attachments/assets/e98b3708-8301-4365-a0cd-30e3f7c0d336)
+![image](https://github.com/user-attachments/assets/ce1631d8-5ab4-4935-ad0a-f5c914202b17)
+![image](https://github.com/user-attachments/assets/661f33a6-0d8e-4238-b6b9-f4af90986a49)
+![image](https://github.com/user-attachments/assets/2b928b2e-c3ee-4c63-bb38-6f112fcf9c31)
+![image](https://github.com/user-attachments/assets/7c2fdcb6-a009-408d-a936-30e7a685bf4f)
+![image](https://github.com/user-attachments/assets/582add9e-0660-4f09-a43d-218de389e6e9)
+
+
+
+
+
+
