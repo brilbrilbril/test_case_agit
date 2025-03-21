@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain-openai
+camelot-py[cv]
+python-dotenv
+openai
+jq
+streamlit
+faiss-cpu
